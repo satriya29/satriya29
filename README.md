@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning java,kotlin,javascript, python
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me satria@akucode.com
+- 📫 How to reach me satria@akucode.dev
 
 <!---
 satriya29/satriya29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
